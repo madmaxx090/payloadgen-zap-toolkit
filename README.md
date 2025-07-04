@@ -29,13 +29,12 @@ Manual scanning can slow down your workflow. PayloadGen helps automate the proce
 
 ---
 ## Reference Links
-XSS Filter Evasion Cheat Sheet – PortSwigger
 
-PayloadAllTheThings – GitHub
+- 🔗 [XSS Filter Evasion Cheat Sheet – PortSwigger](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+- 🔗 [PayloadAllTheThings – GitHub](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- 🔗 [SQLi Payload Bypasses – Acunetix](https://www.acunetix.com/blog/articles/sql-injection-cheat-sheet/)
+- 🔗 [OWASP Command Injection Guide](https://owasp.org/www-community/attacks/Command_Injection)
 
-SQL Injection Payload Bypasses – Acunetix
-
-OWASP Command Injection Guide
 ## Author
 Author
 Unaiza
