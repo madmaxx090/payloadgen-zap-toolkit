@@ -8,7 +8,7 @@ This tool is built for bug bounty hunters, ethical hackers, cybersecurity studen
 
 ## 🧠 Why Use This Tool?
 
-Manual recon and scanning can slow down your workflow. PayloadGen helps automate the process by:
+Manual scanning can slow down your workflow. PayloadGen helps automate the process by:
 
 - Reducing time spent writing/reusing payloads
 - Scanning web targets without opening ZAP manually
