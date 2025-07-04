@@ -36,8 +36,14 @@ Manual scanning can slow down your workflow. PayloadGen helps automate the proce
 - 🔗 [OWASP Command Injection Guide](https://owasp.org/www-community/attacks/Command_Injection)
 
 ## Author
-Author
-Unaiza
-Bachelor of Science in Cyber Security | Air University
-GitHub: github.com/madmaxx090
+Project By:
+## Unaiza Fatima
+unaizafatima82@gmail.com
+Bachelor of Science in Cyber Security
+Air University, Islamabad
+
+## Supervised By:
+Muhammad Ahsan Ayaz
+Cyber Security Department
+ITSOLERA Summer Internship Program – 2025
 
