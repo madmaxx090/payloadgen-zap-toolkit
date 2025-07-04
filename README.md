@@ -39,11 +39,15 @@ Manual scanning can slow down your workflow. PayloadGen helps automate the proce
 Project By:
 ## Unaiza Fatima
 unaizafatima82@gmail.com
+
 Bachelor of Science in Cyber Security
-Air University, Islamabad
+
+Air University
 
 ## Supervised By:
 Muhammad Ahsan Ayaz
+
 Cyber Security Department
+
 ITSOLERA Summer Internship Program – 2025
 
