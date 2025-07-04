@@ -1,0 +1,20 @@
+payloadgen-zap-toolkit/
+├── gui.py
+├── zap_integration.py
+├── payloadgen.py
+├── requirements.txt
+├── README.md
+├── modules/
+│   ├── xss.py
+│   ├── sqli.py
+│   ├── cmdinj.py
+├── utils/
+│   └── (helper files)
+├── output/
+│   ├── xss_payloads.json
+│   ├── sqli_payloads.json
+│   ├── cmd_payloads.json
+│   └── zap_report.html
+├── screenshots/
+│   ├── gui_home.png
+│   ├── report_browser.png
